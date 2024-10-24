@@ -19,7 +19,7 @@ a:focus, a:hover {
 }
 /* the styles for the header */
 header {
-	padding: 1.5em 0 2em 0;
+	padding: 2.82% 0 3. 0;
 	border-bottom: 3px solid #931420;
 	background-image: linear-gradient(
 	    30deg, #f6bb73 0%, #fffded 30%, white 50%, #fffded 80%, #f6bb73 100%);
@@ -34,7 +34,7 @@ header h3 {
 }
 header img {
 	float: left;
-	padding: 0 30px;
+	padding: 0 3.52%;
 }
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
@@ -48,7 +48,7 @@ main {
 section {
 	width: 575%;
 	float: right;
-	padding: 0 20px 20px 20px;
+	padding: 0 2.35% 2.35% 20px;
 }
 section h1 {
 	color: #800000;

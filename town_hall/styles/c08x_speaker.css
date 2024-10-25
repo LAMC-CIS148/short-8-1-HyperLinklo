@@ -41,6 +41,17 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the navigation menu */
+
+#nav_list ul li { 
+	width: 200%;
+	margin-bottom: .5em;
+	border: 2px double black;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0 0 #800000;
+	background-image: url("../images/right.jpg");
+	background-repeat: no-repeat;
+	background-position: 95% center;}
+
 #nav_menu ul {
     display: flex;
     flex-basis: 100%;

@@ -83,6 +83,33 @@ header img {
     width: 20%;
 }
 
+#nav_list ul { 
+	list-style: none;
+	margin-left: 0;
+	margin-bottom: 1.5em; }
+#nav_list ul li { 
+	width: 200%;
+	margin-bottom: .5em;
+	border: 2px double black;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0 0 #800000;
+	background-image: url("../images/right.jpg");
+	background-repeat: no-repeat;
+	background-position: 95% center;
+}
+#nav_list ul li a {
+	display: block;
+	padding: .5em 0 .5em 0.94%;
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+#nav_list ul li a.current {
+	color: #800000;
+}
+
+
+
 /* the styles for the main content */
 main {
     display: flex;

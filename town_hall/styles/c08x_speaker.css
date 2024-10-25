@@ -9,7 +9,7 @@ html {
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    width: 850px;
+    width: 98%;
     margin: 0 auto;
     border: 3px solid #931420;
     background-color: #fffded;
@@ -19,7 +19,7 @@ a:focus, a:hover {
 }
 /* the styles for the header */
 header {
-	padding: 1.5em 0 2em 0;
+	padding: 2.82% 0 .3em 0;
 	border-bottom: 3px solid #931420;
 	background-image: linear-gradient(
 	    30deg, #f6bb73 0%, #fffded 30%, white 50%, #fffded 80%, #f6bb73 100%);
@@ -34,7 +34,7 @@ header h3 {
 }
 header img {
 	float: left;
-	padding: 0 30px;
+	padding: 0 3.52%;
 }
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
@@ -46,9 +46,9 @@ main {
 
 /* the styles for the section */
 section {
-	width: 575px;
+	width: 575%;
 	float: right;
-	padding: 0 20px 20px 20px;
+	padding: 0 2.35% 20px 2.35%;
 }
 section h1 {
 	color: #800000;
@@ -70,20 +70,20 @@ article h2 {
 }
 article img {
 	float: right;
-	margin: .5em 0 1em 1em;
+	margin: .5em 0 1em 1.88%;
 	border: 1px solid black;
 }
 
 /* the styles for the aside */
 aside {
-	width: 215px;
+	width: 215%;
 	float: right;
-	padding: 0 0 20px 20px;
+	padding: 0 0 20px 2.35%;
 }
 aside h2 {
 	color: #800000;
 	font-size: 130%;
-	padding: .6em 0 .25em 0;
+	padding: .6em 0 .2em 0;
 }
 
 aside h3 {
@@ -100,7 +100,7 @@ aside img {
 	margin-left: 0;
 	margin-bottom: 1.5em; }
 #nav_list ul li { 
-	width: 200px;
+	width: 200%;
 	margin-bottom: .5em;
 	border: 2px double black;
 	border-radius: 10px;
@@ -111,7 +111,7 @@ aside img {
 }
 #nav_list ul li a {
 	display: block;
-	padding: .5em 0 .5em .5em;
+	padding: .5em 0 .5em 0.94%;
 	text-decoration: none;
 	font-weight: bold;
 	color: black;

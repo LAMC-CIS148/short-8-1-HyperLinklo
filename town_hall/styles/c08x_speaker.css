@@ -93,17 +93,7 @@ header img {
 #nav_menu ul li ul {
     width: 20%;
 }
-}
-#nav_list ul li a {
-	display: block;
-	padding: .5em 0 .5em 0.94%;
-	text-decoration: none;
-	font-weight: bold;
-	color: black;
-}
-#nav_list ul li a.current {
-	color: #800000;
-}
+
 
 
 /* the styles for the main content */
